@@ -5,7 +5,9 @@ local servers = {
 	-- "html",
 	-- "tsserver",
 	"pyright",
+	"dockerls",
 	"bashls",
+	"intelephense",
 	"jsonls",
 }
 

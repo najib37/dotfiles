@@ -1,3 +1,5 @@
+vim.api.nvim_command('set autoread')
+-- require "user.norg"
 require "user.options"
 require "user.keymaps"
 require "user.plugins"
