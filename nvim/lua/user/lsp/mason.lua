@@ -1,14 +1,6 @@
 local servers = {
 	"sumneko_lua",
-	"clangd",
-	-- "cssls",
-	-- "html",
-	-- "tsserver",
-	"pyright",
-	"dockerls",
-	"bashls",
-	"intelephense",
-	"jsonls",
+	"clangd"
 }
 
 local settings = {
